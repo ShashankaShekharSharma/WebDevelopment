@@ -17,9 +17,9 @@
 
 |Input|Output|
 |-----|------|
-|\'|single quote|
-|\"|double quote|
-|\\|backslash|
+|"\'"|single quote|
+|"\""|double quote|
+|"\ \"|backslash|
 |\n|newline|
 |\r|carriage return|
 |\t|tab|
