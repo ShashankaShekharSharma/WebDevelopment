@@ -19,7 +19,7 @@
 |-----|------|
 |\'|single quote|
 |\"|double quote|
-|\\|backslash|
+|'\\'|backslash|
 |\n|newline|
 |\r|carriage return|
 |\t|tab|
